@@ -36,14 +36,14 @@ por ejemplo, es posible la resolución de raíces en una ecuación.
 *Son datos que han sido codificados para ser manipulados por una computadora. Los archivos de computadora pueden ser guardados en CD-ROM, DVD, disco duro o cualquier otro medio de almacenamiento. Usualmente los archivos tienen una ”extensión” después de un punto, que indica el tipo de datos que contiene el archivo.
 ### - Sistemas numéricos e información##
 El concepto de número y el proceso de desarrollo del conteo han sido históricamente registrados a lo largo del tiempo; por ejemplo, para una tribu primitiva resultaba indispensable conocer cuántos miembros tenía en comparación con el número de integrantes de la tribu enemiga, así como a un pastor le era necesario determinar si su rebaño de ovejas había crecido en tamaño; para ello se valían de sus dedos, piedras, palos, muescas en madera y nudos en cuerdas, y las personas estaban habilitadas para conservar la cuenta del ganado y de otros elementos.
-## + Sistema numérico decimal
+  ##  Sistema numérico decimal
 El sistema numérico decimal está basado en una raíz de 10 y está compuesto por los dígitos 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. La posición de cada cifra, de derecha a izquierda, indica las unidades, decenas, centenas, etcétera. Por esta razón, a este sistema también se le llama sistema posicional.
-## + Sistema numérico binario
+  ##    Sistema numérico binario
 Sistema de numeración de base 2, el cual se representa por los números 0 y 1. Los números binarios son el sistema común interno de la computación digital debido a la relativa simplicidad de registrar, almacenar y reconocer variables de sólo dos valores. El valor de un número binario es computado multiplicando el valor de cada dígito por la correspondiente potencia de dos y sumando todos estos productos. La presencia de un 1 en una posición digital de un número binario indica que la correspondiente potencia de dos es usada en la determinación del número binario. El 0 en una posición digital indica que la correspondiente potencia de dos está ausente del número binario.
-## + Sistema numérico octal
+##    Sistema numérico octal
 Se basa en una raíz 8 y utiliza los dígitos 0, 1, 2, 3, 4, 5, 6, 7. Este sistema tiene características especiales que lo hacen muy útil en muchas situaciones que involucran números binarios. Puesto que tres dígitos binarios se agrupan y representan un dígito octal, muchas operaciones binarias pueden representarse usando dígitos octales, esto es extremadamente útil cuando se trabaja con la consola del operador en muchas computadoras binarias. En la tabla 2.1 se muestra cómo son utilizados los dígitos octales para la representación de agrupaciones
 de tres dígitos.
-## + Sistema numérico hexadecimal
+##    Sistema numérico hexadecimal
 El sistema numérico hexadecimal se basa en una raíz 16, por lo que emplea 16 dígitos: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F; en éste, los
 dígitos del 0 al 9 se usan en sentido normal y los otros seis dígitos, representados por las letras A, B, C, D, E, F, se utilizan con equivalencia
 (A = 10, B = 11, C = 12, D = 13, E = 14, F = 15). Los sistemas octal y
