@@ -12,6 +12,5 @@
 <img src="imágenes/P1.3 P1 Cel.jpeg">
 
 ### Video de partes de mi computadora
-
 https://github.com/AlanServin/Informatica/assets/146912691/0c5f21ac-269e-415e-9971-2727753baeee
 
