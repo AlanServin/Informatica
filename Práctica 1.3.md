@@ -11,8 +11,8 @@
 ## Collage 4 Partes de un celular
 <img src="imágenes/P1.3 P1 Cel.jpeg">
 
-### Especificaciones tecnicas de mi computadora
-# EliteBook x360
+# Especificaciones tecnicas de mi computadora
+### EliteBook x360
 
 - Procesador Intel Core i7
 - 16Gb de memoria RAM
